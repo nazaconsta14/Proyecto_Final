@@ -1,0 +1,99 @@
+.incorrecto {
+    text-decoration:line-through;
+    color: red;
+}
+
+
+/*
+
+<div>
+                <img src="./img/imagen6.webp" class="imagen-descuento">
+                <div class="parrafo-descuento">
+                    <br>
+                    <p class="" id="descuento">$1300</p>
+                    <br>
+                    <p class="">$1000</p>
+                </div>
+            </div>
+            
+
+            <div>
+                <img src="./img/imagen2.webp" class="imagen-descuento">
+                <br>
+                <p class="" id="descuento">$2100</p>
+                <br>
+                <p class="">$1800</p>
+            </div>
+            <div>
+                <img src="./img/imagen3.webp" class="imagen-descuento">
+                <br>
+                <p class="-" id="descuento">$1400</p>
+                <br>
+                <p class="-">$1100</p>
+            </div>
+            <div>
+                <img src="./img/imagen4.webp" class="imagen-descuento">
+                <br>
+                <p class="-" id="descuento">$1500</p>
+                <br>
+                <p class="-">$1000</p>
+            </div>
+            <div>
+                <img src="./img/imagen5.webp" class="imagen-descuento">
+                <br>
+                <p class="-" id="descuento">$1800</p>
+                <br>
+                <p class="-">$1300</p>
+            </div>
+            <div>
+                <img src="./img/libro_inicio6.jpg" class="imagen-descuento">
+                <br>
+                <p class="-" id="descuento">$1600</p>
+                <br>
+                <p class="-">$1400</p>
+            </div>
+            <div>
+                <img src="./img/libro_inicio7.jpg" class="imagen-descuento">
+                <br>
+                <p class="-" id="descuento">$950</p>
+                <br>
+                <p class="-">$800</p>
+            </div>
+            <div>
+                <img src="./img/libro_inicio8.jpg" class="imagen-descuento">
+                <br>
+                <p class="-" id="descuento">$1200</p>
+                <br>
+                <p class="-">$1000</p>
+            </div>
+            <div>
+                <img src="./img/libro_inicio9.jpg" class="imagen-descuento">
+                <br>
+                <p class="-" id="descuento">$1350</p>
+                <br>
+                <p class="-">$1200</p>
+            </div>
+            <div>
+                <img src="./img/imagen7.webp" class="imagen-descuento">
+                <br>
+                <p class="" id="descuento">$1300</p>
+                <br>
+                <p class="">$1100</p>
+            </div>
+            <div>
+                <img src="./img/imagen8.webp" class="imagen-descuento">
+                <br>
+                <p class="" id="descuento">$1600</p>
+                <br>
+                <p class="">$1400</p>
+            </div>
+            <div>
+                <img src="./img/imagen9.webp" class="imagen-descuento">
+                <br>
+                <p class="" id="descuento">$1700</p>
+                <br>
+                <p class="">$1500</p>
+            </div>
+
+
+*/
